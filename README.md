@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zusy <img style="width:3vh;" src="https://cdn3.emoji.gg/emojis/9850_pop_pop_cat.gif"></h2> 
+<h2 align="left">Hi 👋! My name is Zusy ‎ ‎ <img style="width:3vh;" src="https://cdn3.emoji.gg/emojis/9850_pop_pop_cat.gif"></h2> 
 
 I am a Cyber ​​Security Professional  
 
