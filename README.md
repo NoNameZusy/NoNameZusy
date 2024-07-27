@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Zusy</h2>
 
-I am a Cyber ​​Security Professional
+I am a Cyber ​​Security Professional ![github](https://github.com/user-attachments/assets/d96d3e66-c474-4e2e-b2a4-4907de21e75f)
 
 ![Mr Robot](https://github.com/user-attachments/assets/3230fbf9-1036-4945-9700-0bd2cd21a2d9)
 
