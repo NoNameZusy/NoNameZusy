@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Zusy</h2>
 
-I am a Cyber ​​Security Professional <img style="width:3vh;" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+I am a Cyber ​​Security Professional <img style="width:3vh;" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 
 ![Mr Robot](https://github.com/user-attachments/assets/3230fbf9-1036-4945-9700-0bd2cd21a2d9)
 
