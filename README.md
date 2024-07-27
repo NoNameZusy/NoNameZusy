@@ -9,8 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="![Mr Robot](https://github.com/user-attachments/assets/c3d51e78-34e2-4400-a6ab-a0c7f07a777b)"
-/>
+![Mr Robot](https://github.com/user-attachments/assets/3230fbf9-1036-4945-9700-0bd2cd21a2d9)
+
 
 ###
 
