@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Zusy</h2>
+<h2 align="left">Hi 👋! My name is Zusy</h2> <img style="width:4vh;" src="https://cdn3.emoji.gg/emojis/9850_pop_pop_cat.gif">
 
-I am a Cyber ​​Security Professional  <img style="width:4vh;" src="https://www.freepnglogos.com/uploads/hacker-png/hacker-computer-icons-4.png">
+I am a Cyber ​​Security Professional  
 
 ![Mr Robot](https://github.com/user-attachments/assets/3230fbf9-1036-4945-9700-0bd2cd21a2d9)
 
